@@ -1,0 +1,12 @@
+html
+{
+    background-color: #000;
+    color: #FFF;
+}
+
+.spriteBox
+{
+    border: 0.2em solid #888;
+    display: inline-block;
+    text-align: center;
+}
